@@ -21,8 +21,8 @@ You can start editing the page by modifying `pages/index.tsx`. The page auto-upd
 
 
 ## API Routes
-- [/api/cites](api/cites). to fetch the cities
-- [/api/destances](api/destances). to calculate the distances 
+- (api/cites). to fetch the cities
+- (api/destances). to calculate the distances 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
 
